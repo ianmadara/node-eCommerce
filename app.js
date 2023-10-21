@@ -5,9 +5,10 @@ const path = require("path");
 const errorPagesController = require("./controllers/errorPages");
 
 const rootDir = require("./utils/path");
+
 const app = express();
-app.set('view engine', 'ejs')
 app.set('includes', 'views/includes')
+app.set('view engine', 'ejs')
 app.set('views', 'views')
 
 
