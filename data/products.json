@@ -1,16 +1,1 @@
-[
-  {
-    "id": "1",
-    "title": "A Book",
-    "imageUrl": "https://loremflickr.com/200/200",
-    "description": "This is an awesome book!",
-    "price": "19"
-  },
-  {
-    "title": "Ullam vitae dolores ",
-    "imageUrl": "https://picsum.photos/200/200?random=1",
-    "description": "Et non aliquid et qu",
-    "price": "310",
-    "id": "0.22932962203597484"
-  }
-]
+[{"id":"1","title":"A Book","imageUrl":"https://loremflickr.com/200/200","description":"This is an awesome book!","price":"19"},{"title":"Ullam vitae dolores ","imageUrl":"https://picsum.photos/200/200?random=1","description":"Et non aliquid et qu","price":"310","id":"0.22932962203597484"},{"id":"0.20281184120254592","title":"Sed corporis molesti!!","imageUrl":"https://picsum.photos/200/200?random=2","description":"Enim voluptas aut er test","price":"843434"}]
