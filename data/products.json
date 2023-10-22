@@ -1,1 +1,16 @@
-[{"title":"dffsa"},{"title":"Another"},{"title":"fasdfdas"},{"title":"Second Book"},{"title":"This was added after refactor"}]
+[
+  {
+    "id": "1",
+    "title": "A Book",
+    "imageUrl": "https://loremflickr.com/200/200",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "title": "Ullam vitae dolores ",
+    "imageUrl": "https://picsum.photos/200/200?random=1",
+    "description": "Et non aliquid et qu",
+    "price": "310",
+    "id": "0.22932962203597484"
+  }
+]
