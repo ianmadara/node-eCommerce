@@ -15,6 +15,11 @@ main {
   margin: auto;
 }
 
+.image {
+  height: 20rem;
+}
+
+
 form {
   display: inline;
 }
